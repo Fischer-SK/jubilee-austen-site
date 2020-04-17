@@ -1,0 +1,44 @@
+/***** BASE STYLES *****/
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+@font-face {
+font-family: wisdom-script;
+src: url('../fonts/wisdom-script.otf') format('opentype');
+}
+
+
+/***** GRID *****/
+
+.container {
+
+
+}
+
+
+/***** BODY *****/
+
+
+h1 {
+font-size:16px;
+font-family: Montserrat;
+font-weight: bold;
+text-align: center;
+color: grey;
+}
+
+h2 {
+font-size:14px;
+font-family: Montserrat;
+color: orange;
+}
+
+ul li {
+  list-style-type: none;
+  font-size:16px;
+  font-family: Montserrat;
+  color: purple;
+}

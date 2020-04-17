@@ -1,0 +1,35 @@
+<!doctype html>
+  <html>
+    <head>
+      <title>Work</title>
+      <link rel="stylesheet" href="../css/normalize.css">
+      <link rel="stylesheet" href="../css/main.css">
+      <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+    </head>
+      <meta charset= "utf8">
+    <body>
+      <div class="container">
+      <section class="header">
+        <h1>Projects</h1>
+      </section>
+      <section class="main">
+        <div class="first">
+          <h2>Professional Projects</h2>
+            <ul>
+              <li>klsjdfsdkjflk</li>
+              <li>lskjdfljdskfjfj/li>
+              <li>sdkjfsdklj</li>
+            </ul>
+        </div>
+        <div class="second">
+          <h2>Volunteer Projects</h2>
+            <ul>
+              <li>ksdjflkds</li>
+              <li>sdhjflksd</li>
+              <li>;oskdjlkfsd</li>
+            </ul>
+        </div>
+      </section>
+    </div>
+    </body>
+  </html>
